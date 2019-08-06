@@ -27,3 +27,5 @@ This dataset is a sqlite file include 7 tables:
 * Plotly documentation: https://plot.ly/python/radar-chart/
 * Kaggle dataset: https://www.kaggle.com/hugomathien/soccer/data
 * Jupiter Notebook
+## Notes
+* Modify import data in 02-Import and Tidy.ipynb to using this project.
